@@ -6,6 +6,7 @@
 - [Сервис перевода денег. (В разработке)](https://github.com/Kabahok/money-transfer-service)
 - [Сервис по работе с Binance (Web Sockets)](https://github.com/Kabahok/binance-connect-app)
 - [Конвертер в текстовую графику](https://github.com/Kabahok/converterToTextGraphics)
+- [Облачное хранилище. (В разработке)](https://github.com/Kabahok/cloud-storage)
 
 # Educational tasks
 - [Многопоточное программирование](https://github.com/Kabahok/multithreaded-programming)
